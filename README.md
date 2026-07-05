@@ -148,8 +148,8 @@ This vanity generator is a standalone tool from **[Froglabs](https://froglabs.io
 
 ### Get Started
 
-- **Website**: [froglabs.com](https://froglabs.com)
-- **Documentation**: [froglabs.gitbook.io](https://froglabs.io/docs/)
+- **Website**: [froglabs.io](https://froglabs.io)
+- **Documentation**: [froglabs docs](https://froglabs.io/docs/)
 - **Twitter**: [@froglabs](https://x.com/froglabsio)
 
 **Welcome Frogs!** 🐸
