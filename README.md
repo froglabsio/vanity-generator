@@ -1,8 +1,8 @@
 # Solana Vanity Address Generator
 
-> **Part of [FrogWifTools](https://frogwiftools.com)** - Serverless launch tools for Solana token creators
+> **Part of [Froglabs](https://froglabs.io)** - Serverless launch tools for Solana token creators
 
-## ![FrogWifTools Website](./assets/frogwiftools-website.png)
+## ![Froglabs Website](./assets/frogwiftools-website.png)
 
 Generate custom Solana wallet addresses with specific suffixes like `ray`, `pump`, `bonk`, or any custom pattern. Perfect for branding your token launches on pumpfun, raydium, bonk and more or even just creating memorable wallet addresses.
 
@@ -18,7 +18,7 @@ Generate custom Solana wallet addresses with specific suffixes like `ray`, `pump
 
 ```bash
 # Clone and run
-git clone https://github.com/frogwiftools/vanity-generator.git
+git clone https://github.com/froglabs/vanity-generator.git
 cd vanity-generator
 
 # Make executable
@@ -122,11 +122,11 @@ chmod +x vanity-generator.sh
 
 ---
 
-## Part of FrogWifTools
+## Part of Froglabs
 
-This vanity generator is a standalone tool from **[FrogWifTools](https://frogwiftools.com)** - the powerful, serverless launchpad built for Solana token creators.
+This vanity generator is a standalone tool from **[Froglabs](https://froglabs.io)** - the powerful, serverless launchpad built for Solana token creators.
 
-### Why FrogWifTools?
+### Why Froglabs?
 
 - **True Decentralization** - No backend servers, no databases, no middlemen
 - **Your Data, Your Device** - Everything runs locally
@@ -144,13 +144,13 @@ This vanity generator is a standalone tool from **[FrogWifTools](https://frogwif
 | **Vanity Addresses**  | Generate branded wallet addresses (this tool!)  |
 | **P&L Tracking**      | Monitor profit and loss across your portfolio   |
 
-![FrogWifTools Dashboard](./assets/frogwiftools-dashboard.png)
+![froglabs Dashboard](./assets/frogwiftools-dashboard.png)
 
 ### Get Started
 
-- **Website**: [frogwiftools.com](https://frogwiftools.com)
-- **Documentation**: [frogwiftools.gitbook.io](https://frogwiftools.gitbook.io/frogwiftools/)
-- **Twitter**: [@frogwiftools](https://twitter.com/frogwiftools)
+- **Website**: [froglabs.com](https://froglabs.com)
+- **Documentation**: [froglabs.gitbook.io](https://froglabs.io/docs/)
+- **Twitter**: [@froglabs](https://x.com/froglabsio)
 
 **Welcome Frogs!** 🐸
 
